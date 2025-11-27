@@ -33,4 +33,4 @@ python Actividad_fundamental_3.py
 
 Al ejecutar el código se mostrarán en consola las métricas de desempeño ($R^2$, MSE) y se generará una gráfica de dispersión comparando los valores reales vs. los predichos.
 
-
+![Gráfica de Resultados](grafica_prediccion.png)
